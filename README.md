@@ -1,6 +1,9 @@
 For website of price model please click -
             https://github.com/Shakcham-Sinha/Price-Pridiction-Website
    ---------------------------         -------------------------------
+ML Model link -
+            https://github.com/Shakcham-Sinha/Price-Pridiction-Model/blob/main/Untitled0(1).ipynb
+-------------------------------           --------------------------------
             Our website Preview:-
 ![Screenshot 2024-09-18 232343](https://github.com/user-attachments/assets/d99022f9-75d7-414f-b0f6-fe433e1726dc)
 ![Screenshot 2024-09-18 232406](https://github.com/user-attachments/assets/744731af-6cb4-467f-83c9-1b46a47e1352)
